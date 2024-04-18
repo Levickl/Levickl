@@ -27,5 +27,5 @@ Meu nome é Levi, sou um estudante de Desenvolvimento Full-stack com paixão por
 
 ## 💬 Redes
 
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/levickl/)
-- Instagram: [Seu Instagram](https://www.instagram.com/levickl2/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/levickl/)
+- Instagram: [Instagram](https://www.instagram.com/levickl2/)
