@@ -20,7 +20,6 @@ Meu nome é Levi, sou um estudante de Desenvolvimento Full-stack com paixão por
 - **MySQL**  
 - **Python**  
 - **C#**
-- **C**
 ## 💼 Portfólio
 
 - Ainda estou criando meu portifolio.
