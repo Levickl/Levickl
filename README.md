@@ -7,7 +7,7 @@ Meu nome é Levi, sou um estudante de Desenvolvimento Full-stack com paixão por
 🎲 Criação e gerenciamento de bancos de dados.
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,cs,ts,firebase)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,cs,ts,sqlite)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=react,php,firebase,mysql,postgres,python,figma)](https://skillicons.dev)
 <br>
 **Figma**, **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **React Native**, <br>
