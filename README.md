@@ -14,7 +14,7 @@ Meu nome é Levi, sou um estudante de Desenvolvimento Full-stack com paixão por
 **PHP**, **Firebase**, **SQLite**, **MySQL**, **Python**, **C#** e **Java**
 ## 💼 Portfólio
 
-- Ainda estou criando meu portifolio.
+- [Aqui.](https://portfoliolevi-three.vercel.app/#projetos)
 
 ## 💬 Redes
 
